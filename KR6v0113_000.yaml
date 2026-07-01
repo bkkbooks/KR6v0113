@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0113/zw/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 敦煌本《壇經》校釋疏義（標題章、第一章、第二章）
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW10/ZW10n0086.xml
+    old_id: ZW10n0086
+hash: sha256:4aac888d74a8a4964cf9d2a140124abf63a7215eea6953b3bf80605930f68643

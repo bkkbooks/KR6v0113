@@ -1,0 +1,474 @@
+canonical_identifier: bkk:krp/KR6v0113/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0113/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 敦煌本《壇經》校釋疏義（標題章、第一章、第二章）
+  identifiers:
+    krp: KR6v0113
+    cbeta: ZW10n0086
+    cbeta_old_id: ZW10n0086
+    authorityid: CA0008530
+    json_key: ZW0086
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW10/ZW10n0086.xml
+    old_id: ZW10n0086
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0113_000-ZW.yaml, hash: 'sha256:4aac888d74a8a4964cf9d2a140124abf63a7215eea6953b3bf80605930f68643'}
+  - {seq: 1, filename: KR6v0113_001-ZW.yaml, hash: 'sha256:244a1154d2096757799115cd6259dbe2084f1966071ca413595b15c8789fcd3e'}
+  - {seq: 2, filename: KR6v0113_002-ZW.yaml, hash: 'sha256:75f9547757adb9054da37803679cd51b65bdc9794ee9e82e35f90229ef7115a4'}
+  - {seq: 3, filename: KR6v0113_003-ZW.yaml, hash: 'sha256:520fbe302b864cac432c363e92ee663f5a13a224ea5843283f127dc3fb92c430'}
+  - {seq: 4, filename: KR6v0113_004-ZW.yaml, hash: 'sha256:61e55fb9191cdcd4d165762e9c7eb90ec92b8c95b708dc81b1ff00ddfc0aef79'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0113_000-ZW.markers.yaml, hash: 'sha256:242d966594c3b357b1323a6262c64bd1037c183295faab384f746e19fd80f71f'}
+  - {seq: 1, role: markers, filename: assets/KR6v0113_001-ZW.markers.yaml, hash: 'sha256:8d643bd173b60433b7e889338187944255b43c39224fab5b069cb15833410f6c'}
+  - {seq: 2, role: markers, filename: assets/KR6v0113_002-ZW.markers.yaml, hash: 'sha256:f732cb0eb07b6fee58bde01d1acb3b66021252b868de78ae73f29bad53c34493'}
+  - {seq: 3, role: markers, filename: assets/KR6v0113_003-ZW.markers.yaml, hash: 'sha256:32c08bb7d98000e1e0a29c55d2b13b877adef3386267a750ec5b6b9875b4a1a6'}
+  - {seq: 4, role: markers, filename: assets/KR6v0113_004-ZW.markers.yaml, hash: 'sha256:ef5eab3c36621415b12ff8ea221b1989f0046263506ecb352fe9b351cbfc90cf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0113_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 3524
+  label: 敦煌本《壇經》校釋疏義
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0113_ZW_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0113_ZW_001-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: 一、宗旨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0113_ZW_001-mulu-3
+    span:
+    - body
+    - 1375
+    - 1375
+  label: 二、說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0113_ZW_001-mulu-4
+    span:
+    - body
+    - 1416
+    - 1416
+  label: （一）正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0113_ZW_001-mulu-5
+    span:
+    - body
+    - 2112
+    - 2112
+  label: （二）校記並諸家錄校復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0113_ZW_001-mulu-6
+    span:
+    - body
+    - 3290
+    - 3290
+  label: （三）註釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0113_ZW_001-mulu-7
+    span:
+    - body
+    - 3312
+    - 3312
+  label: （四）分段標點復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0113_ZW_001-mulu-8
+    span:
+    - body
+    - 3411
+    - 3411
+  label: （五）疏義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0113_ZW_001-mulu-9
+    span:
+    - body
+    - 3427
+    - 3427
+  label: （六）原始資料
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0113_ZW_002-juan-start
+    span:
+    - body
+    - 0
+    - 12831
+  label: 敦煌本《壇經》校釋疏義
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0113_ZW_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 標題章
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0113_ZW_002-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 一、正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0113_ZW_002-mulu-3
+    span:
+    - body
+    - 58
+    - 58
+  label: 二、校記並諸家錄校復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0113_ZW_002-mulu-4
+    span:
+    - body
+    - 859
+    - 859
+  label: 三、註釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0113_ZW_002-mulu-5
+    span:
+    - body
+    - 3202
+    - 3202
+  label: 四、分段標點復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0113_ZW_002-mulu-6
+    span:
+    - body
+    - 10858
+    - 10858
+  label: 五、疏義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0113_ZW_002-mulu-7
+    span:
+    - body
+    - 12656
+    - 12656
+  label: 六、原始資料
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-juan-start
+    span:
+    - body
+    - 0
+    - 7257
+  label: 敦煌本《壇經》校釋疏義
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第一章
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 一、正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-3
+    span:
+    - body
+    - 129
+    - 129
+  label: 二、校記並諸家錄校復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-4
+    span:
+    - body
+    - 1694
+    - 1694
+  label: 三、注釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-5
+    span:
+    - body
+    - 2577
+    - 2577
+  label: 四、分段標點復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-6
+    span:
+    - body
+    - 2584
+    - 2584
+  label: （一）分段
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-7
+    span:
+    - body
+    - 2870
+    - 2870
+  label: （二）分句及標點
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-8
+    span:
+    - body
+    - 3102
+    - 3102
+  label: 五、疏義
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-9
+    span:
+    - body
+    - 3149
+    - 3149
+  label: （一）敦煌本《壇經》不是「《壇經》原本」
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-10
+    span:
+    - body
+    - 4334
+    - 4334
+  label: （二）敦煌本《壇經》是現存年代最古老的《壇經》
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-11
+    span:
+    - body
+    - 4865
+    - 4865
+  label: （三）敦煌本與惠昕本、契嵩本
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0113_ZW_003-mulu-12
+    span:
+    - body
+    - 6889
+    - 6889
+  label: 六、原始資料
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-juan-start
+    span:
+    - body
+    - 0
+    - 8179
+  label: 煌本《壇經》校釋疏義
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 第二章
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 一、正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-3
+    span:
+    - body
+    - 233
+    - 233
+  label: 二、校記並諸家錄校復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-4
+    span:
+    - body
+    - 3679
+    - 3679
+  label: 三、注釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-5
+    span:
+    - body
+    - 4507
+    - 4507
+  label: 四、分段標點復議
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-6
+    span:
+    - body
+    - 4514
+    - 4514
+  label: （一）分段
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-7
+    span:
+    - body
+    - 4806
+    - 4806
+  label: （二）分句及標點
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-8
+    span:
+    - body
+    - 5808
+    - 5808
+  label: 五、疏義
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-9
+    span:
+    - body
+    - 5842
+    - 5842
+  label: （一）《壇經》中的粵語方言
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-10
+    span:
+    - body
+    - 6983
+    - 6983
+  label: （二）惠能與《金剛經》
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-11
+    span:
+    - body
+    - 7266
+    - 7266
+  label: （三）「五祖弘忍」一詞的出現
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0113_ZW_004-mulu-12
+    span:
+    - body
+    - 7510
+    - 7510
+  label: 六、原始資料
+  type: mulu
+  level: 1
+hash: sha256:c53959a3232fd138bdf95b73753646b8bf5a02eebd8c1f7c4b6fcfa271dccf1a
